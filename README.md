@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SianShouldShutUp
-- 👀 I’m interested in video games and crafts!
+- 👀 I’m interested in Video Game development!
 - 🌱 I’m currently learning HTML and Python
 
 <!---
